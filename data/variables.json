@@ -1,0 +1,312 @@
+[
+ {
+  "key": "INDPRO",
+  "source": "FRED",
+  "category": "Macro/geopolitical",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.2",
+  "transform": "logdiff",
+  "short_name": "Industrial Production: Total Index",
+  "allow_negative": false
+ },
+ {
+  "key": "CPIENGSL",
+  "source": "FRED",
+  "category": "Macro/geopolitical",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.2",
+  "transform": "logdiff",
+  "short_name": "CPI-U: Energy",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.PAPR_OPEC.M",
+  "source": "EIA",
+  "category": "Macro/geopolitical",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.1",
+  "transform": "logdiff",
+  "short_name": "Total OPEC petroleum supply",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.COPC_OPEC.M",
+  "source": "EIA",
+  "category": "Macro/geopolitical",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.1",
+  "transform": "logdiff",
+  "short_name": "OPEC crude oil production capacity",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.COPS_OPEC.M",
+  "source": "EIA",
+  "category": "Macro/geopolitical",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.1",
+  "transform": "diff",
+  "short_name": "OPEC spare crude oil production capacity",
+  "allow_negative": false
+ },
+ {
+  "key": "GPR",
+  "source": "GPR",
+  "category": "Macro/geopolitical",
+  "freq": "M",
+  "origin": "Our addition",
+  "transform": "logdiff",
+  "short_name": "Geopolitical Risk Index (Recent GPR)",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.RGDPQ_OECD.A",
+  "source": "EIA",
+  "category": "Macro/geopolitical",
+  "freq": "A",
+  "origin": "Alvi (2018), Table 3.1 (as .M)",
+  "transform": "logdiff",
+  "short_name": "OECD real GDP index",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.RGDPQ_NONOECD.A",
+  "source": "EIA",
+  "category": "Macro/geopolitical",
+  "freq": "A",
+  "origin": "Alvi (2018), Table 3.1 (as .M)",
+  "transform": "logdiff",
+  "short_name": "Non-OECD real GDP index",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.FOREX_WORLD.Q",
+  "source": "EIA",
+  "category": "Macro/geopolitical",
+  "freq": "Q",
+  "origin": "Alvi (2018), Table 3.1 (as .M)",
+  "transform": "logdiff",
+  "short_name": "U.S. dollar index",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.PAPR_NONOPEC.M",
+  "source": "EIA",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.1",
+  "transform": "logdiff",
+  "short_name": "Non-OPEC liquids production",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.PATC_OECD.M",
+  "source": "EIA",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.1",
+  "transform": "logdiff",
+  "short_name": "OECD liquid fuels consumption",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.PATC_NON_OECD.M",
+  "source": "EIA",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.1",
+  "transform": "logdiff",
+  "short_name": "Non-OECD liquid fuels consumption",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.PASC_OECD_T3.M",
+  "source": "EIA",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.1",
+  "transform": "logdiff",
+  "short_name": "OECD commercial inventory",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.T3_STCHANGE_OOECD.M",
+  "source": "EIA",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.1",
+  "transform": "diff",
+  "short_name": "Net inventory withdrawals, other OECD",
+  "allow_negative": true
+ },
+ {
+  "key": "STEO.T3_STCHANGE_NOECD.M",
+  "source": "EIA",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.1",
+  "transform": "diff",
+  "short_name": "Net inventory withdrawals, non-OECD",
+  "allow_negative": true
+ },
+ {
+  "key": "STEO.COPRPUS.M",
+  "source": "EIA",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.1",
+  "transform": "logdiff",
+  "short_name": "U.S. crude oil production",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.CORIPUS.M",
+  "source": "EIA",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.1",
+  "transform": "logdiff",
+  "short_name": "U.S. crude oil refinery input",
+  "allow_negative": false
+ },
+ {
+  "key": "PET.MCRIMXX2.M",
+  "source": "EIA",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), code",
+  "transform": "logdiff",
+  "short_name": "U.S. crude imports from OPEC",
+  "allow_negative": false
+ },
+ {
+  "key": "CAPG211S",
+  "source": "FRED",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.2",
+  "transform": "logdiff",
+  "short_name": "Capacity: oil and gas extraction",
+  "allow_negative": false
+ },
+ {
+  "key": "CAPUTLG211S",
+  "source": "FRED",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.2",
+  "transform": "diff",
+  "short_name": "Capacity utilization: oil and gas extraction",
+  "allow_negative": false
+ },
+ {
+  "key": "IPG211S",
+  "source": "FRED",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.2",
+  "transform": "logdiff",
+  "short_name": "IP: oil and gas extraction",
+  "allow_negative": false
+ },
+ {
+  "key": "IPG211111CN",
+  "source": "FRED",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.2",
+  "transform": "logdiff",
+  "short_name": "IP: crude oil (discontinued)",
+  "allow_negative": false
+ },
+ {
+  "key": "IPG21112S",
+  "source": "FRED",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Our addition (B1)",
+  "transform": "logdiff",
+  "short_name": "IP: crude oil (NAICS 21112)",
+  "allow_negative": false
+ },
+ {
+  "key": "IPN213111N",
+  "source": "FRED",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.2",
+  "transform": "logdiff",
+  "short_name": "IP: drilling oil and gas wells",
+  "allow_negative": false
+ },
+ {
+  "key": "PCU211211",
+  "source": "FRED",
+  "category": "Microeconomic",
+  "freq": "M",
+  "origin": "Alvi (2018), Table 3.2",
+  "transform": "logdiff",
+  "short_name": "PPI: oil and gas extraction",
+  "allow_negative": false
+ },
+ {
+  "key": "WTISPLC",
+  "source": "FRED",
+  "category": "Financial",
+  "freq": "M",
+  "origin": "Alvi (2018), target",
+  "transform": "logdiff",
+  "short_name": "WTI spot price (monthly)",
+  "allow_negative": false
+ },
+ {
+  "key": "DCOILWTICO",
+  "source": "FRED",
+  "category": "Financial",
+  "freq": "D",
+  "origin": "Our addition",
+  "transform": "logdiff",
+  "short_name": "WTI spot price, Cushing (daily)",
+  "allow_negative": false
+ },
+ {
+  "key": "DCOILBRENTEU",
+  "source": "FRED",
+  "category": "Financial",
+  "freq": "D",
+  "origin": "Our addition",
+  "transform": "logdiff",
+  "short_name": "Brent spot price, Europe (daily)",
+  "allow_negative": false
+ },
+ {
+  "key": "CL=F",
+  "source": "Yahoo",
+  "category": "Financial",
+  "freq": "D",
+  "origin": "Our addition",
+  "transform": "logdiff",
+  "short_name": "NYMEX crude oil futures, front month",
+  "allow_negative": false
+ },
+ {
+  "key": "^GSPC",
+  "source": "Yahoo",
+  "category": "Financial (benchmark)",
+  "freq": "D",
+  "origin": "Our addition (benchmark)",
+  "transform": "logdiff",
+  "short_name": "S&P 500 index (benchmark)",
+  "allow_negative": false
+ },
+ {
+  "key": "STEO.COPR_OPEC.M",
+  "source": "EIA",
+  "category": "Diagnostic only",
+  "freq": "M",
+  "origin": "Diagnostic for B4",
+  "transform": "logdiff",
+  "short_name": "OPEC crude oil production",
+  "allow_negative": false
+ }
+]

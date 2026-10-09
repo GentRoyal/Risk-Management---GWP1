@@ -1,0 +1,18 @@
+[
+ {"break": "B1", "check": "overlap", "series": "IPG211111CN", "compare_with": "IPG21112S", "date": "2021-04-01", "compare_levels": false,
+  "source": "FRED (IPG211111CN discontinued; IPG21112S listed as related)"},
+ {"break": "B3", "check": "jump", "series": "STEO.FOREX_WORLD.Q", "date": "2021-04-01",
+  "source": "EIA, Short-Term Energy Outlook: Data series changes (May 11, 2021)"},
+ {"break": "B4", "check": "jump", "series": "STEO.COPR_OPEC.M", "date": "2024-01-01",
+  "source": "EIA, Short-Term Energy Outlook: Data series changes (January 9, 2024)"},
+ {"break": "B4", "check": "jump", "series": "STEO.PAPR_OPEC.M", "date": "2024-01-01",
+  "source": "EIA, Short-Term Energy Outlook: Data series changes (January 9, 2024)"},
+ {"break": "B4", "check": "jump", "series": "STEO.PAPR_NONOPEC.M", "date": "2024-01-01",
+  "source": "EIA, Short-Term Energy Outlook: Data series changes (January 9, 2024)"},
+ {"break": "B4 (control)", "check": "jump", "series": "STEO.COPRPUS.M", "date": "2024-01-01",
+  "source": "Same month as B4; U.S. production is not affected by the Angola change"},
+ {"break": "Splice", "check": "jump", "series": "WTISPLC", "date": "2013-08-01",
+  "source": "FRED notes for WTISPLC (OILPRICE to Jul 2013, MCOILWTICO from Aug 2013)"},
+ {"break": "Splice", "check": "overlap", "series": "WTISPLC", "compare_with": "DCOILWTICO", "date": "2013-08-01", "compare_levels": true,
+  "source": "FRED notes for WTISPLC"}
+]

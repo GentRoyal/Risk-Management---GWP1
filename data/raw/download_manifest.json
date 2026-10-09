@@ -1,0 +1,492 @@
+{
+ "data/raw/fred/INDPRO_series.json": {
+  "source": "FRED series INDPRO",
+  "downloaded_utc": "2026-10-08T20:42:16+00:00",
+  "bytes": 744,
+  "sha256": "68e7d4a16f9b0417dd1854d0bd133ec7452048dd54f873e5a06b7c436bb56acb",
+  "note": ""
+ },
+ "data/raw/fred/INDPRO_release.json": {
+  "source": "FRED release INDPRO",
+  "downloaded_utc": "2026-10-08T20:42:18+00:00",
+  "bytes": 539,
+  "sha256": "94f31a0f6db0b0bb3b69731fa7200bd524ab1bc7d10d68de2fc93ec53f74f69e",
+  "note": ""
+ },
+ "data/raw/fred/INDPRO_sources.json": {
+  "source": "FRED sources INDPRO",
+  "downloaded_utc": "2026-10-08T20:42:20+00:00",
+  "bytes": 243,
+  "sha256": "263a47fc74eb903b2bae8630affa42c864199db998f441a6b78a56155c100a8c",
+  "note": ""
+ },
+ "data/raw/fred/INDPRO_observations.json": {
+  "source": "FRED observations INDPRO",
+  "downloaded_utc": "2026-10-08T20:42:21+00:00",
+  "bytes": 126616,
+  "sha256": "27b38216c41c399e120da8c44be3f77bc9536a7b65434ecd38c51cad3d6e0f34",
+  "note": ""
+ },
+ "data/raw/fred/CPIENGSL_series.json": {
+  "source": "FRED series CPIENGSL",
+  "downloaded_utc": "2026-10-08T20:42:23+00:00",
+  "bytes": 719,
+  "sha256": "949f1b1eb8f8b8f3f54fe9911cf7b8b1662e19c6d2058670e7c4fd4fa9f30844",
+  "note": ""
+ },
+ "data/raw/fred/CPIENGSL_release.json": {
+  "source": "FRED release CPIENGSL",
+  "downloaded_utc": "2026-10-08T20:42:24+00:00",
+  "bytes": 228,
+  "sha256": "3aeb903c711d0afe534af270f22609ad5c246eaed391a50f82cc20e77572e66a",
+  "note": ""
+ },
+ "data/raw/fred/CPIENGSL_sources.json": {
+  "source": "FRED sources CPIENGSL",
+  "downloaded_utc": "2026-10-08T20:42:26+00:00",
+  "bytes": 213,
+  "sha256": "42a9d4bdd9b7910e23c999e128ebda3365a5827b0449a3c06e2f16b6aefada42",
+  "note": ""
+ },
+ "data/raw/fred/CPIENGSL_observations.json": {
+  "source": "FRED observations CPIENGSL",
+  "downloaded_utc": "2026-10-08T20:42:27+00:00",
+  "bytes": 80673,
+  "sha256": "f6938c7900fef19fb6d981f97a5c4a5d7a8ecaef4e8a81525292d4f323ff61b5",
+  "note": ""
+ },
+ "data/raw/fred/CAPG211S_series.json": {
+  "source": "FRED series CAPG211S",
+  "downloaded_utc": "2026-10-08T20:42:28+00:00",
+  "bytes": 776,
+  "sha256": "c8d8bc4457bd63f48518d95b73a66d4c781662d9465a4ad4fedbe56670c4163f",
+  "note": ""
+ },
+ "data/raw/fred/CAPG211S_release.json": {
+  "source": "FRED release CAPG211S",
+  "downloaded_utc": "2026-10-08T20:42:30+00:00",
+  "bytes": 539,
+  "sha256": "94f31a0f6db0b0bb3b69731fa7200bd524ab1bc7d10d68de2fc93ec53f74f69e",
+  "note": ""
+ },
+ "data/raw/fred/CAPG211S_sources.json": {
+  "source": "FRED sources CAPG211S",
+  "downloaded_utc": "2026-10-08T20:42:31+00:00",
+  "bytes": 243,
+  "sha256": "263a47fc74eb903b2bae8630affa42c864199db998f441a6b78a56155c100a8c",
+  "note": ""
+ },
+ "data/raw/fred/CAPG211S_observations.json": {
+  "source": "FRED observations CAPG211S",
+  "downloaded_utc": "2026-10-08T20:42:32+00:00",
+  "bytes": 64637,
+  "sha256": "665a977c2c698805ad20d7d90417779522d907092a7cc51b60567212dd582497",
+  "note": ""
+ },
+ "data/raw/fred/CAPUTLG211S_series.json": {
+  "source": "FRED series CAPUTLG211S",
+  "downloaded_utc": "2026-10-08T20:42:35+00:00",
+  "bytes": 760,
+  "sha256": "1682c64b549e12de789f58b22ce8e2cfa5e6525fef4719e7e1fd2fcca74f9031",
+  "note": ""
+ },
+ "data/raw/fred/CAPUTLG211S_release.json": {
+  "source": "FRED release CAPUTLG211S",
+  "downloaded_utc": "2026-10-08T20:42:37+00:00",
+  "bytes": 539,
+  "sha256": "94f31a0f6db0b0bb3b69731fa7200bd524ab1bc7d10d68de2fc93ec53f74f69e",
+  "note": ""
+ },
+ "data/raw/fred/CAPUTLG211S_sources.json": {
+  "source": "FRED sources CAPUTLG211S",
+  "downloaded_utc": "2026-10-08T20:42:45+00:00",
+  "bytes": 243,
+  "sha256": "263a47fc74eb903b2bae8630affa42c864199db998f441a6b78a56155c100a8c",
+  "note": ""
+ },
+ "data/raw/fred/CAPUTLG211S_observations.json": {
+  "source": "FRED observations CAPUTLG211S",
+  "downloaded_utc": "2026-10-08T20:42:48+00:00",
+  "bytes": 64489,
+  "sha256": "f2987d615655c1104fdba219b12f8aff2bc9850fbc6c0682a1c26c23eba187e8",
+  "note": ""
+ },
+ "data/raw/fred/IPG211S_series.json": {
+  "source": "FRED series IPG211S",
+  "downloaded_utc": "2026-10-08T20:42:49+00:00",
+  "bytes": 778,
+  "sha256": "98dd34f92812b34b9dd8139dd8833f1feab5393a9c596d081c4658370a4380c7",
+  "note": ""
+ },
+ "data/raw/fred/IPG211S_release.json": {
+  "source": "FRED release IPG211S",
+  "downloaded_utc": "2026-10-08T20:42:55+00:00",
+  "bytes": 539,
+  "sha256": "94f31a0f6db0b0bb3b69731fa7200bd524ab1bc7d10d68de2fc93ec53f74f69e",
+  "note": ""
+ },
+ "data/raw/fred/IPG211S_sources.json": {
+  "source": "FRED sources IPG211S",
+  "downloaded_utc": "2026-10-08T20:42:57+00:00",
+  "bytes": 243,
+  "sha256": "4e8bb02475c291183446be9186750b8c66daf06f5fa49ee9f29e2be053cd7bb0",
+  "note": ""
+ },
+ "data/raw/fred/IPG211S_observations.json": {
+  "source": "FRED observations IPG211S",
+  "downloaded_utc": "2026-10-08T20:42:58+00:00",
+  "bytes": 64594,
+  "sha256": "8ff00d229be62222de5e1ae770995842517bd7d46da8ffdc443ac1d6e83159d5",
+  "note": ""
+ },
+ "data/raw/fred/IPG211111CN_series.json": {
+  "source": "FRED series IPG211111CN",
+  "downloaded_utc": "2026-10-08T20:42:59+00:00",
+  "bytes": 834,
+  "sha256": "8288456afa4b164f2cdc151252ad3c530821daf93f30bccb0851c7771f68767b",
+  "note": ""
+ },
+ "data/raw/fred/IPG211111CN_release.json": {
+  "source": "FRED release IPG211111CN",
+  "downloaded_utc": "2026-10-08T20:43:02+00:00",
+  "bytes": 539,
+  "sha256": "94f31a0f6db0b0bb3b69731fa7200bd524ab1bc7d10d68de2fc93ec53f74f69e",
+  "note": ""
+ },
+ "data/raw/fred/IPG211111CN_sources.json": {
+  "source": "FRED sources IPG211111CN",
+  "downloaded_utc": "2026-10-08T20:43:03+00:00",
+  "bytes": 243,
+  "sha256": "4e8bb02475c291183446be9186750b8c66daf06f5fa49ee9f29e2be053cd7bb0",
+  "note": ""
+ },
+ "data/raw/fred/IPG211111CN_observations.json": {
+  "source": "FRED observations IPG211111CN",
+  "downloaded_utc": "2026-10-08T20:43:04+00:00",
+  "bytes": 58684,
+  "sha256": "6433ef32d6555882c0e20e2869b4875ab902f9991d55ee8de3956bce1a1e6388",
+  "note": ""
+ },
+ "data/raw/fred/IPG21112S_series.json": {
+  "source": "FRED series IPG21112S",
+  "downloaded_utc": "2026-10-08T20:43:06+00:00",
+  "bytes": 769,
+  "sha256": "ec27361c7a43889f57cd00efb806ee533bfdbed48c6b83081712ab461ec8edb6",
+  "note": ""
+ },
+ "data/raw/fred/IPG21112S_release.json": {
+  "source": "FRED release IPG21112S",
+  "downloaded_utc": "2026-10-08T20:43:19+00:00",
+  "bytes": 539,
+  "sha256": "94f31a0f6db0b0bb3b69731fa7200bd524ab1bc7d10d68de2fc93ec53f74f69e",
+  "note": ""
+ },
+ "data/raw/fred/IPG21112S_sources.json": {
+  "source": "FRED sources IPG21112S",
+  "downloaded_utc": "2026-10-08T20:43:20+00:00",
+  "bytes": 243,
+  "sha256": "4e8bb02475c291183446be9186750b8c66daf06f5fa49ee9f29e2be053cd7bb0",
+  "note": ""
+ },
+ "data/raw/fred/IPG21112S_observations.json": {
+  "source": "FRED observations IPG21112S",
+  "downloaded_utc": "2026-10-08T20:43:21+00:00",
+  "bytes": 64637,
+  "sha256": "921ea10f32caeebf86067cf218078c9523b1303964b02ecac1a9f49e0dbf44cb",
+  "note": ""
+ },
+ "data/raw/fred/IPN213111N_series.json": {
+  "source": "FRED series IPN213111N",
+  "downloaded_utc": "2026-10-08T20:43:24+00:00",
+  "bytes": 792,
+  "sha256": "99b9126ddf58b1eae61afcd23120eaf31ee1e1deb6be90989b1a6b282de6cc02",
+  "note": ""
+ },
+ "data/raw/fred/IPN213111N_release.json": {
+  "source": "FRED release IPN213111N",
+  "downloaded_utc": "2026-10-08T20:43:25+00:00",
+  "bytes": 539,
+  "sha256": "94f31a0f6db0b0bb3b69731fa7200bd524ab1bc7d10d68de2fc93ec53f74f69e",
+  "note": ""
+ },
+ "data/raw/fred/IPN213111N_sources.json": {
+  "source": "FRED sources IPN213111N",
+  "downloaded_utc": "2026-10-08T20:43:26+00:00",
+  "bytes": 243,
+  "sha256": "4e8bb02475c291183446be9186750b8c66daf06f5fa49ee9f29e2be053cd7bb0",
+  "note": ""
+ },
+ "data/raw/fred/IPN213111N_observations.json": {
+  "source": "FRED observations IPN213111N",
+  "downloaded_utc": "2026-10-08T20:43:27+00:00",
+  "bytes": 64958,
+  "sha256": "a7bee488c31b6fb281b3791192856c6646f6c91feafe9bffb1ec00123ae44cab",
+  "note": ""
+ },
+ "data/raw/fred/PCU211211_series.json": {
+  "source": "FRED series PCU211211",
+  "downloaded_utc": "2026-10-08T20:43:28+00:00",
+  "bytes": 524,
+  "sha256": "8b7b7b0ed90b40fe282145442d9d7198d4cb064a7ad13bd6fe9ea5cd297dd8ea",
+  "note": ""
+ },
+ "data/raw/fred/PCU211211_release.json": {
+  "source": "FRED release PCU211211",
+  "downloaded_utc": "2026-10-08T20:43:40+00:00",
+  "bytes": 228,
+  "sha256": "9396b9b179a6c64b04ddba5ba2fd8516627ee6e456ca856aeb85a8e704c29a66",
+  "note": ""
+ },
+ "data/raw/fred/PCU211211_sources.json": {
+  "source": "FRED sources PCU211211",
+  "downloaded_utc": "2026-10-08T20:43:57+00:00",
+  "bytes": 213,
+  "sha256": "bd2b5b454f6657f7bde4b6e6884ce204ba30545172342d17de45d7da73b3b237",
+  "note": ""
+ },
+ "data/raw/fred/PCU211211_observations.json": {
+  "source": "FRED observations PCU211211",
+  "downloaded_utc": "2026-10-08T20:43:58+00:00",
+  "bytes": 47163,
+  "sha256": "59355be338a358450b39e63bcc8c85af1655d9cd6d4aa0e971ca47e871666f27",
+  "note": ""
+ },
+ "data/raw/fred/WTISPLC_series.json": {
+  "source": "FRED series WTISPLC",
+  "downloaded_utc": "2026-10-08T20:43:59+00:00",
+  "bytes": 945,
+  "sha256": "6b27f30c6d27b1c60cded38939ce5863eb48d648f94baa1fe0e7c2903d32eed3",
+  "note": ""
+ },
+ "data/raw/fred/WTISPLC_release.json": {
+  "source": "FRED release WTISPLC",
+  "downloaded_utc": "2026-10-08T20:44:02+00:00",
+  "bytes": 640,
+  "sha256": "24c30eaec432905e2e62ad1e3182352e671ea03ef0685e585efb59b1e1739c01",
+  "note": ""
+ },
+ "data/raw/fred/WTISPLC_sources.json": {
+  "source": "FRED sources WTISPLC",
+  "downloaded_utc": "2026-10-08T20:44:03+00:00",
+  "bytes": 220,
+  "sha256": "b6e0e588486c7e9003b5295831d3cec55bd7f0a0308bafa7fdc10256f58069d2",
+  "note": ""
+ },
+ "data/raw/fred/WTISPLC_observations.json": {
+  "source": "FRED observations WTISPLC",
+  "downloaded_utc": "2026-10-08T20:44:04+00:00",
+  "bytes": 93946,
+  "sha256": "a1c7f9f6e03fe8e34e67384c6d66d4fd24481fec906b69c60f41775fb618184e",
+  "note": ""
+ },
+ "data/raw/fred/DCOILWTICO_series.json": {
+  "source": "FRED series DCOILWTICO",
+  "downloaded_utc": "2026-10-08T20:44:07+00:00",
+  "bytes": 654,
+  "sha256": "148767dc9fd08fcc8b0a36c175346d20d75788a8bd76f47dee9bdb95a3a36e0c",
+  "note": ""
+ },
+ "data/raw/fred/DCOILWTICO_release.json": {
+  "source": "FRED release DCOILWTICO",
+  "downloaded_utc": "2026-10-08T20:44:13+00:00",
+  "bytes": 248,
+  "sha256": "65d22dcf70ff1bf8ce9d685780c3822ce07233cb5128d2fd0bc81981587caa30",
+  "note": ""
+ },
+ "data/raw/fred/DCOILWTICO_sources.json": {
+  "source": "FRED sources DCOILWTICO",
+  "downloaded_utc": "2026-10-08T20:44:14+00:00",
+  "bytes": 219,
+  "sha256": "82054ecc70528a5f7e9a250d1dafaf20a1d543070c2f824c4a966d0c9e869fce",
+  "note": ""
+ },
+ "data/raw/fred/DCOILWTICO_observations.json": {
+  "source": "FRED observations DCOILWTICO",
+  "downloaded_utc": "2026-10-08T20:44:16+00:00",
+  "bytes": 1017028,
+  "sha256": "b10d27090a4ff6d093637fc0a6ca70f54b403a974ef2bb766876e8df59c4d5a1",
+  "note": ""
+ },
+ "data/raw/fred/DCOILBRENTEU_series.json": {
+  "source": "FRED series DCOILBRENTEU",
+  "downloaded_utc": "2026-10-08T20:44:17+00:00",
+  "bytes": 621,
+  "sha256": "072131c7b7e95eb9ad4070c4ba2577c3a99b38d7b1a28f811a7708ecf5d24376",
+  "note": ""
+ },
+ "data/raw/fred/DCOILBRENTEU_release.json": {
+  "source": "FRED release DCOILBRENTEU",
+  "downloaded_utc": "2026-10-08T20:44:18+00:00",
+  "bytes": 248,
+  "sha256": "cd18b11dba4213053637b67e11d391dca52124fc2c3640e7b7f053d3dfa841ff",
+  "note": ""
+ },
+ "data/raw/fred/DCOILBRENTEU_sources.json": {
+  "source": "FRED sources DCOILBRENTEU",
+  "downloaded_utc": "2026-10-08T20:44:21+00:00",
+  "bytes": 219,
+  "sha256": "82054ecc70528a5f7e9a250d1dafaf20a1d543070c2f824c4a966d0c9e869fce",
+  "note": ""
+ },
+ "data/raw/fred/DCOILBRENTEU_observations.json": {
+  "source": "FRED observations DCOILBRENTEU",
+  "downloaded_utc": "2026-10-08T20:44:23+00:00",
+  "bytes": 982921,
+  "sha256": "0c56049e4e2eabf653fce3bdcf69893bf16296bbd6d894811c99522cf175da6c",
+  "note": ""
+ },
+ "data/raw/eia/STEO.PAPR_OPEC.M_p0.json": {
+  "source": "EIA STEO.PAPR_OPEC.M",
+  "downloaded_utc": "2026-10-08T20:44:30+00:00",
+  "bytes": 60925,
+  "sha256": "1e50c075dff9295ab5b50741a3511e5ec906689e8781db7e5b90db129d441aa4",
+  "note": ""
+ },
+ "data/raw/eia/STEO.COPC_OPEC.M_p0.json": {
+  "source": "EIA STEO.COPC_OPEC.M",
+  "downloaded_utc": "2026-10-08T20:44:31+00:00",
+  "bytes": 71874,
+  "sha256": "df6f608857363a1a478357c1d93dc2f602c32d3416dab13d777c5eb6bdae7585",
+  "note": ""
+ },
+ "data/raw/eia/STEO.COPS_OPEC.M_p0.json": {
+  "source": "EIA STEO.COPS_OPEC.M",
+  "downloaded_utc": "2026-10-08T20:44:33+00:00",
+  "bytes": 68520,
+  "sha256": "15cabd0f240ed1372ba959a93cb883845b9d858fd6c80fbc60e0ae4113a66704",
+  "note": ""
+ },
+ "data/raw/eia/STEO.RGDPQ_OECD.A_p0.json": {
+  "source": "EIA STEO.RGDPQ_OECD.A",
+  "downloaded_utc": "2026-10-08T20:44:35+00:00",
+  "bytes": 5657,
+  "sha256": "688d6cf862c7c4a23e6a080ed986beebb353cd2c7b961f8914834f65f9a657c4",
+  "note": ""
+ },
+ "data/raw/eia/STEO.RGDPQ_NONOECD.A_p0.json": {
+  "source": "EIA STEO.RGDPQ_NONOECD.A",
+  "downloaded_utc": "2026-10-08T20:44:36+00:00",
+  "bytes": 5907,
+  "sha256": "4b9e7a8da34817d3c4b322269fce15ebecb6a0310e62ea99d8f19ac7d76b3f10",
+  "note": ""
+ },
+ "data/raw/eia/STEO.FOREX_WORLD.Q_p0.json": {
+  "source": "EIA STEO.FOREX_WORLD.Q",
+  "downloaded_utc": "2026-10-08T20:44:38+00:00",
+  "bytes": 27287,
+  "sha256": "1dc3efcd93b33f7cb275157f810912dfcfb8f1251d7d411e3c9ac6980446b019",
+  "note": ""
+ },
+ "data/raw/eia/STEO.PAPR_NONOPEC.M_p0.json": {
+  "source": "EIA STEO.PAPR_NONOPEC.M",
+  "downloaded_utc": "2026-10-08T20:44:39+00:00",
+  "bytes": 70191,
+  "sha256": "bd01609f799f8fda870f66163707217a2fc1c05b0d85c354442a85d560a78474",
+  "note": ""
+ },
+ "data/raw/eia/STEO.PATC_OECD.M_p0.json": {
+  "source": "EIA STEO.PATC_OECD.M",
+  "downloaded_utc": "2026-10-08T20:44:41+00:00",
+  "bytes": 71651,
+  "sha256": "b3a009f45339d11eef520d4c44dcbb2f087d20bd87c21b58c1a2604a0d005827",
+  "note": ""
+ },
+ "data/raw/eia/STEO.PATC_NON_OECD.M_p0.json": {
+  "source": "EIA STEO.PATC_NON_OECD.M",
+  "downloaded_utc": "2026-10-08T20:44:43+00:00",
+  "bytes": 75319,
+  "sha256": "d6d9e98c4205a3c3bfcfe51dc636654a666738b926ed0cb8f0b54f495571fbed",
+  "note": ""
+ },
+ "data/raw/eia/STEO.PASC_OECD_T3.M_p0.json": {
+  "source": "EIA STEO.PASC_OECD_T3.M",
+  "downloaded_utc": "2026-10-08T20:44:44+00:00",
+  "bytes": 59370,
+  "sha256": "d50b7a2175bbf48c9564dc661df154e9a304d50cf9532b5231644e4bb431b798",
+  "note": ""
+ },
+ "data/raw/eia/STEO.T3_STCHANGE_OOECD.M_p0.json": {
+  "source": "EIA STEO.T3_STCHANGE_OOECD.M",
+  "downloaded_utc": "2026-10-08T20:44:46+00:00",
+  "bytes": 59963,
+  "sha256": "de7aba655a6888dbe689909ae9a193d2bf665b3baf8fc41cfdab8c8711b69c44",
+  "note": ""
+ },
+ "data/raw/eia/STEO.T3_STCHANGE_NOECD.M_p0.json": {
+  "source": "EIA STEO.T3_STCHANGE_NOECD.M",
+  "downloaded_utc": "2026-10-08T20:44:48+00:00",
+  "bytes": 59590,
+  "sha256": "e4c59ef6d3adaa4e33aa58b92be94157858cd3eec90ba25c3025754c4ea3955e",
+  "note": ""
+ },
+ "data/raw/eia/STEO.COPRPUS.M_p0.json": {
+  "source": "EIA STEO.COPRPUS.M",
+  "downloaded_utc": "2026-10-08T20:44:50+00:00",
+  "bytes": 64464,
+  "sha256": "a138a5582c5e1c88020457d9324f82e29492c568ab5742cc755a90d468f35b50",
+  "note": ""
+ },
+ "data/raw/eia/STEO.CORIPUS.M_p0.json": {
+  "source": "EIA STEO.CORIPUS.M",
+  "downloaded_utc": "2026-10-08T20:44:51+00:00",
+  "bytes": 63777,
+  "sha256": "34da729f865f515fc5140f1f412fc1ca1b152a181e0920a6fa6467e74bfc7783",
+  "note": ""
+ },
+ "data/raw/eia/PET.MCRIMXX2.M_p0.json": {
+  "source": "EIA PET.MCRIMXX2.M",
+  "downloaded_utc": "2026-10-08T20:44:54+00:00",
+  "bytes": 186876,
+  "sha256": "2d2124755369e17d48d3faec4994be470df11b074e930ad1048b362def1fb162",
+  "note": ""
+ },
+ "data/raw/eia/STEO.COPR_OPEC.M_p0.json": {
+  "source": "EIA STEO.COPR_OPEC.M",
+  "downloaded_utc": "2026-10-08T20:44:55+00:00",
+  "bytes": 62746,
+  "sha256": "a048cff2be7a381fecc3ace44e17ce9a4ca7017fd067f030880f9f673c70428e",
+  "note": ""
+ },
+ "data/raw/eia/STEO.zip": {
+  "source": "EIA STEO bulk file",
+  "downloaded_utc": "2026-10-08T20:45:04+00:00",
+  "bytes": 5449396,
+  "sha256": "828caff63e7303833fbe9af50b9fee52b6db8ab22f1a3a46a3aad2f56644c8e0",
+  "note": "used for lastHistoricalPeriod and descriptions only"
+ },
+ "data/raw/gpr/data_gpr_export.xls": {
+  "source": "matteoiacoviello.com/gpr.htm",
+  "downloaded_utc": "2026-10-08T20:45:12+00:00",
+  "bytes": 2716160,
+  "sha256": "97af839913606a4bbf4315130b3b1d08d25e37398110c3d2207dc1179f9ff0eb",
+  "note": ""
+ },
+ "data/raw/yahoo/CL_F.csv": {
+  "source": "Yahoo Finance CL=F",
+  "downloaded_utc": "2026-10-08T20:45:15+00:00",
+  "bytes": 846033,
+  "sha256": "03ae6197d76a3406a9569749faaaf63dd1c06772dee7e4d45a1d2036cd7403e8",
+  "note": ""
+ },
+ "data/raw/yahoo/CL_F_info.json": {
+  "source": "Yahoo Finance CL=F quote info",
+  "downloaded_utc": "2026-10-08T20:45:15+00:00",
+  "bytes": 145,
+  "sha256": "272843b79a7b0487abf6e8fee736a12c91dadb900698104ac4cfc00ad012290d",
+  "note": ""
+ },
+ "data/raw/yahoo/GSPC.csv": {
+  "source": "Yahoo Finance ^GSPC",
+  "downloaded_utc": "2026-10-08T20:45:17+00:00",
+  "bytes": 3255143,
+  "sha256": "e346fc67f470793931dac198126907126089217d531796b79c4d18bf15414238",
+  "note": ""
+ },
+ "data/raw/yahoo/GSPC_info.json": {
+  "source": "Yahoo Finance ^GSPC quote info",
+  "downloaded_utc": "2026-10-08T20:45:18+00:00",
+  "bytes": 118,
+  "sha256": "52fc3d09c45e37ef2a75fd2341bc242b4bff290218e1cd87fa7ce88555305961",
+  "note": ""
+ }
+}
