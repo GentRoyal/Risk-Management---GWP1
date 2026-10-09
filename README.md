@@ -1,7 +1,5 @@
 # GWP1 Problem Formulation
 
-Oct 8, 2026 · @Ridwan
-
 ## 1. The Problem
 
 Alvi's dissertation addresses the problem of forecasting the spot price of crude oil using probabilistic graphical models (PGMs) (Alvi, abstract; sec. 1.2). The work is motivated by oil's role in the global economy. Crude oil is used both in conventional fuels and in building infrastructure, so it can heavily influence the economic growth of countries, especially oil importers (Alvi, sec. 1.1). Unexpected fluctuations in the real price of oil harm both oil-importing and oil-exporting economies. Reliable forecasts are of interest to global macro hedge funds, which treat the oil price as a key input to macroeconomic projections, and to policymakers, who use it to anticipate recessions (Alvi, sec. 1.1). Alvi frames oil trading as a global macro strategy, in which macroeconomic indicators serve as buy and sell signals on a monthly or quarterly scale (Alvi, sec. 3.1).
